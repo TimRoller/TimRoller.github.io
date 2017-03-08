@@ -18,6 +18,6 @@ In 2014 I receienved the CFA designation, and am a memeber of the CFA Society of
 
 In my free time I've been developing software in Python, posting it to GitHub, and ofcourse playing basketball at Cal. 
 
-
-
 Thanks for reading!
+
+![My helpful screenshot]({{ site.url }}/public/Tim.jpg)
