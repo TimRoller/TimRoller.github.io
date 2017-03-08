@@ -4,27 +4,20 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey! Welcome to my my personal homepage! You'll find a brief history about me, somes areas of research, and whatever else I decide to add over time. Thanks for stopping by!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
+## Bio
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I grew up in North Hollywood, CA, the youngest of three boys. We all played sports from a very young age, with intense sibiling rivalries  across basketball, soccer and volleyball. After highschool I ventured north to Cal for Civil Engineering, receiving a BS and MS in 2007 and 2008. 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I spent two summers interning for a Consuling Engineering firm, SGH, before emarking on a career in Finance. I started out as a market maker for equity options in SF, quoting over 100 stocks and etfs electronically, from the Pacific Exchange Floor. Next, I worked 3 years as a trader for a New York based Hedge Fund, Saiers Captial, that specializes in Volitility Arbitrage.  More recently, I used quantitative methods to evaluate equity investments for a Family Office.
 
-## Setup
+In 2014 I receienved the CFA designation, and am a memeber of the CFA Society of San Francisco. 
 
-Some fun facts about the setup of this project include:
+In my free time I've been developing software in Python, posting it to GitHub, and ofcourse playing basketball at Cal. 
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading!
