@@ -2,12 +2,6 @@
 layout: page
 title: About
 ---
-
-<p class="message">
-  Hey! Welcome to my personal homepage! You'll find a brief history about me, some areas of research, and whatever else I decide to add over time. Thanks for stopping by!
-</p>
-
-
 ## Bio
 
 I grew up in North Hollywood, CA, the youngest of three boys. We all played sports from a very young age, with intense sibiling rivalries  across basketball, soccer and volleyball. After high school, I ventured north to Cal for Civil Engineering, receiving a BS and MS in 2007 and 2008. 
