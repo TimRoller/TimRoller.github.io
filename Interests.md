@@ -19,12 +19,13 @@ The XKCD comic "Feedback" by Randall Munroe.
 
 ## Python & Open Source Tools
 
-I came across a website, www.kaggle.com, where users submit data from unique sources, and have competitions to see who can extract the best insights from the data. One project that caught my eye, is the best time to head to the UC Berkeley Gym, based on a number of factors: time of day, day of week, weather, start of summer (true or false), etc. 
+Kaggle is a website where users submit data from unique sources, and have competitions to see who can extract the best insights from the data. One project that caught my eye, is the best time to head to the UC Berkeley Gym, based on a number of factors: time of day, day of week, weather, start of summer (true or false), etc. 
 
-https://www.kaggle.com/nsrose7224/crowdedness-at-the-campus-gym 
+Here is a link to the project page:
+<a href="https://www.kaggle.com/nsrose7224/crowdedness-at-the-campus-gym">Crowdedness at the campus gym</a>
 
 The data comes in csv format, and the analysis is conducted in python using the Sci-kit learn module (machine learning), to train a model of features, and predict the best guess for crowdedness at the gym, based on other observable factors (time of day, day of week, weather, etc). The goal is maximize the model accuracy, by selecting the best features, and running regressions on those features. 
 
-Below is a correlation matrix from the top user in the competition, showing the sensitivity of different features: 
+Below is a correlation matrix from the top user in the competition, showing the sensitivity of different features: Clearly time of day and weather are strong feautures, as one would expect. This model is able to predict with scores in the low 80s.
 ![My helpful screenshot]({{ site.url }}/public/corr.png)
-Here is a link from the author's GitHub: https://github.com/nirajvermafcb/Data-Science-with-python
+Here is a link from the author's GitHub, to learn more about the model: https://github.com/nirajvermafcb/Data-Science-with-python
