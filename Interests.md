@@ -28,4 +28,5 @@ The data comes in csv format, and the analysis is conducted in python using the 
 
 Below is a correlation matrix from the top user in the competition, showing the sensitivity of different features: Clearly time of day and weather are strong feautures, as one would expect. This model is able to predict with scores in the low 80s.
 ![corr]({{ site.url }}/public/corr.png)
-the author's GitHub, To learn more about the model and implementation, checkout the author's GitHub Page:<a href="https://github.com/nirajvermafcb/Data-Science-with-python">Data Science with python</a>
+
+To learn more about the model and implementation, checkout the author's GitHub Page :<a href="https://github.com/nirajvermafcb/Data-Science-with-python">Data Science with python</a>
