@@ -1,14 +1,13 @@
 
 # Setup
-title:            Tim Roller
+title:            Tim Roller CFA
 tagline:          'Home'
 description:      'A Collection of Projects'
 url:              
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Tim Roller'
 
 paginate:         5
 
