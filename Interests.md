@@ -9,10 +9,22 @@ Apophenia is the human tendency to perceive meaningful patterns from randomn dat
 ![My helpful screenshot]({{ site.url }}/public/flower.jpg)
 
 
-The explanation put forth by evolutionary psychologists for apophenia is that it is not a defect of human cognition, but selected for. This is due to the asymmetrical cost of Type I and Type II (not recognizing a pattern that does exist) errors. For example, someone might hear a noise that sounds like a predator growling. If he believes that it is a predator, but it's just the wind, the cost is only losing a moment's travel time to stand on guard. If he believes that it is just the wind and it actually is predator, the cost is his life.[1]
+The explanation put forth by evolutionary psychologists for apophenia is that it is not a defect of human cognition, but selected for. This is due to the asymmetrical cost of Type I and Type II (not recognizing a pattern that does exist) errors. For example, someone might hear a noise that sounds like a predator growling. If he believes that it is a predator, but it's just the wind, the cost is only losing a moment's travel time to stand on guard. If he believes that it is just the wind and it actually is a predator, the cost is his life[1].
 
 
 ![My helpful screenshot]({{ site.url }}/public/comic.png)
 The XKCD comic "Feedback" by Randall Munroe.
 
 [1] http://theness.com/neurologicablog/index.php/hyperactive-agency-detection/
+
+## Python & Open Source Tools
+
+I came across a website, www.kaggle.com, where users submit data from unique sources, and have competitions to see who can extract the best insights from the data. One project that caught my eye, is the best time to head to the UC Berkeley Gym, based on a number of factors: time of day, day of week, weather, start of summer (true or false), etc. 
+
+https://www.kaggle.com/nsrose7224/crowdedness-at-the-campus-gym 
+
+The data comes in csv format, and the analysis is conducted in python using the Sci-kit learn module (machine learning), to train a model of features, and predict the best guess for crowdedness at the gym, based on other observable factors (time of day, day of week, weather, etc). The goal is maximize the model accuracy, by selecting the best features, and running regressions on those features. 
+
+Below is a correlation matrix from the top user in the competition, showing the sensitivity of different features: 
+![My helpful screenshot]({{ site.url }}/public/corr.png)
+Here is a link from the author's GitHub: https://github.com/nirajvermafcb/Data-Science-with-python
