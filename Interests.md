@@ -17,6 +17,8 @@ The XKCD comic "Feedback" by Randall Munroe.
 
 [1] http://theness.com/neurologicablog/index.php/hyperactive-agency-detection/
 
+
+
 ## Python & Open Source Tools
 
 ![kaggle]({{ site.url }}/public/kaggle.png)
