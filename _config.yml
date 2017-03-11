@@ -10,7 +10,6 @@ author:
   name:           'Tim Roller'
 
 paginate:         5
-
 # Custom vars
 version:          2.1.0
 
