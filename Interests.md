@@ -6,13 +6,13 @@ title: Interests
 
 Apophenia is the human tendency to perceive meaningful patterns from randomn data. A visual representation of this is the apparent skull in the flower below: 
 
-![My helpful screenshot]({{ site.url }}/public/flower.jpg)
+![flower]({{ site.url }}/public/flower.jpg)
 
 
 The explanation put forth by evolutionary psychologists for apophenia is that it is not a defect of human cognition, but selected for. This is due to the asymmetrical cost of Type I and Type II (not recognizing a pattern that does exist) errors. For example, someone might hear a noise that sounds like a predator growling. If he believes that it is a predator, but it's just the wind, the cost is only losing a moment's travel time to stand on guard. If he believes that it is just the wind and it actually is a predator, the cost is his life[1].
 
 
-![My helpful screenshot]({{ site.url }}/public/comic.png)
+![comic]({{ site.url }}/public/comic.png)
 The XKCD comic "Feedback" by Randall Munroe.
 
 [1] http://theness.com/neurologicablog/index.php/hyperactive-agency-detection/
@@ -27,5 +27,5 @@ Here is a link to the project page:
 The data comes in csv format, and the analysis is conducted in python using the Sci-kit learn module (machine learning), to train a model of features, and predict the best guess for crowdedness at the gym, based on other observable factors (time of day, day of week, weather, etc). The goal is maximize the model accuracy, by selecting the best features, and running regressions on those features. 
 
 Below is a correlation matrix from the top user in the competition, showing the sensitivity of different features: Clearly time of day and weather are strong feautures, as one would expect. This model is able to predict with scores in the low 80s.
-![My helpful screenshot]({{ site.url }}/public/corr.png)
+![corr]({{ site.url }}/public/corr.png)
 Here is a link from the author's GitHub, to learn more about the model: https://github.com/nirajvermafcb/Data-Science-with-python
