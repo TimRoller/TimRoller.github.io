@@ -19,6 +19,8 @@ The XKCD comic "Feedback" by Randall Munroe.
 
 ## Python & Open Source Tools
 
+![kaggle]({{ site.url }}/public/kaggle.png)
+
 Kaggle is a website where users submit data from unique sources, and have competitions to see who can extract the best insights from the data. One project that caught my eye, is the best time to head to the UC Berkeley Gym, based on a number of factors: time of day, day of week, weather, start of summer (true or false), etc. 
 
 Here is a link to the project page:
@@ -29,4 +31,4 @@ The data comes in csv format, and the analysis is conducted in python using the 
 Below is a correlation matrix from the top user in the competition, showing the sensitivity of different features: Clearly time of day and weather are strong feautures, as one would expect. This model is able to predict with scores in the low 80s.
 ![corr]({{ site.url }}/public/corr.png)
 
-To learn more about the model and implementation, checkout the author's GitHub Page :<a href="https://github.com/nirajvermafcb/Data-Science-with-python">Data Science with python</a>
+To learn more about the model and implementation, checkout the author's GitHub Page: <a href="https://github.com/nirajvermafcb/Data-Science-with-python">Data Science with python</a>
