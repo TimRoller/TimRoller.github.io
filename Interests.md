@@ -2,7 +2,7 @@
 layout: page
 title: Interests
 ---
-## Data Science 
+## Data Science   
 
 Apophenia is the human tendency to perceive meaningful patterns from randomn data. A visual representation of this is the apparent skull in the flower below: 
 
