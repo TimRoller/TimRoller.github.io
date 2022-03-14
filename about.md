@@ -10,7 +10,7 @@ I spent two summers interning for a Consulting Engineering firm, SGH, before emb
 
 In 2014, I receieved the CFA designation, and am a memeber of the CFA Society of San Francisco. I then worked in San Mateo evaluating equity investments for a Family Office. More recently, I engineered analytics and reporting operations for a heavily regulated Bank. 
 
-In my free time I've been developing software in Python around crypto and playing basketball whenever I can. 
+In my free time I've been developing software in Python around crypto (<a href="https://github.com/TimRoller/Crypto-Portfolio-Analytics"> GitHub Repo </a>) and playing basketball whenever I can.
 
 Thanks for reading!
 
