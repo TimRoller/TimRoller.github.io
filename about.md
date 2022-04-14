@@ -6,9 +6,11 @@ title: About
 
 I grew up in North Hollywood, CA, the youngest of three boys. We all played sports from a very young age, with intense sibiling rivalries across basketball, soccer and volleyball. After high school, I ventured north to Cal for Civil Engineering, receiving a BS and MS in 2007 and 2008. 
 
-I spent two summers interning for a Consulting Engineering firm, SGH, before embarking on a career in Finance. I started out as a market maker for equity options, quoting over 100 stocks and etfs electronically, from the floor of the Pacific Exchange. Next, I worked 3 years as a trader for a New York-based Hedge Fund, Saiers Captial, that specialized in Volatility Arbitrage.  More recently, I used quantitative methods to evaluate equity investments for a Family Office.
+I spent two summers interning for a Consulting Engineering firm before embarking on a career in Finance. I started out as a market maker in equity options, quoting over 100 stocks and ETFs from the floor of the Pacific Exchange before moving to a New York-based Hedge Fund that specialized in volatility arbitrage.
 
-In 2014, I receieved the CFA designation, and am a memeber of the CFA Society of San Francisco. I then worked in San Mateo evaluating equity investments for a Family Office. More recently, I engineered analytics and reporting operations for a heavily regulated Bank. 
+In 2014, I receieved the CFA designation, and became a memeber of the CFA Society of San Francisco. I then developed equity and quantitative research for a $100Mn family office in San Mateo focused on Biotech and momentum strategies. 
+
+More recently, I engineered analytics and reporting for a heavily regulated Bank. 
 
 In my free time I try to play as much basketball as much as possible, and get outside with my dog, Sierra. I've also been developing crypto portfolio analytics in python and uploading them to my <a href="https://github.com/TimRoller/Crypto-Portfolio-Analytics">GitHub</a> page.
 
