@@ -14,7 +14,7 @@ More recently, I engineered analytics and reporting for a heavily regulated Bank
 
 I've also enojoyed developing crypto portfolio analytics in python and uploading them to my <a href="https://github.com/TimRoller/Crypto-Portfolio-Analytics">GitHub</a> page. In addition, it's been both challenging and rewarding to push my knowledge of SQL and data analytics. 
 
-In my free time I try to play as much basketball as much as possible, and get outside with my dog, Sierra. 
+In my free time I try to play as much basketball as possible, and get outside with my dog, Sierra. 
 
 Thanks for reading!
 
